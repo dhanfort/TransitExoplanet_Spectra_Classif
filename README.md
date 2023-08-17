@@ -1,1 +1,1 @@
-# TransitExoplanet_Spectra_Classif
+# Transiting Exoplanet Spectra Classification
